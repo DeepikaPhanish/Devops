@@ -1,0 +1,1 @@
+GitHub is a popular platform for developers and teams to collaborate on code projects. It provides tools for version control using Git, enabling multiple people to work on the same project while keeping track of changes. Here's a quick overview:
